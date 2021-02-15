@@ -1,0 +1,15 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "x-amz-id-2": "RW1MSHHSaYTOs3gg1BJgslIs/ILf87AZGl/22OdaMwUyROxdQzd/6VRINVTR86vuF6tgYfHIpT4=",
+    "x-amz-request-id": "426DC48BC8EE95B9",
+    "date": "Mon, 04 Jan 2021 13:01:13 GMT",
+    "last-modified": "Sun, 16 Aug 2020 19:04:08 GMT",
+    "etag": "\"5e75d121ed231da6a899ad4d73219e11\"",
+    "content-disposition": "attachment; filename=linux-x64.README",
+    "server": "AmazonS3",
+    "connection": "close"
+  },
+  "requestHeaders": {},
+  "requestTimestamp": 1609765272498
+}
